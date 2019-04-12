@@ -1,1 +1,1 @@
-# react-challenge-productbox
+# productbox-react-challenge
