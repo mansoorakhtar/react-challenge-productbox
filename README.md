@@ -94,7 +94,7 @@ To be perfectly clear, I don't expect that anyone could complete _all_ of these.
 
 ## Submission
 
-Fork this repo or create a new public repo and then send the link to [waleed@productbox.dev](mailto:waleed@productbox.dev) with the subject title "Frontend Code Challenge"
+Create a new public repo and then send the link to [waleed@productbox.dev](mailto:waleed@productbox.dev) with the subject title "Frontend Code Challenge"
 
 ## Questions / Problems / Stuck?
 
